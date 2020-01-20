@@ -1,26 +1,16 @@
 # tensorflow2_tutorials_chinese
 
-tensorflow2中文教程，持续更新（不定期更新）
+tensorflow2中文教程，持续更新（更新ing）
 
 
 
-tensorflow 2.0 正式版已上线， 后面将持续根据TensorFlow2的相关教程和学习资料。
+**视频讲解**
 
-最新tensorflow教程和相关资源，请关注微信公众号：DoitNLP，
-后面我会在DoitNLP上，持续更新深度学习、NLP、Tensorflow的相关教程和前沿资讯，它将成为我们一起学习tensorflow的大本营。
-
-
-当前tensorflow版本：tensorflow2.0
+[TensorFlow 2.0 教程- 安装](https://www.bilibili.com/video/av84222295/)
 
 
 
-
-**最全Tensorflow 2.0 教程持续更新：**
-https://zhuanlan.zhihu.com/p/59507137
-
-
-本教程主要由tensorflow2.0官方教程的个人学习复现笔记整理而来，并借鉴了一些keras构造神经网络的方法，中文讲解，方便喜欢阅读中文教程的朋友，tensorflow官方教程：https://www.tensorflow.org
-
+**原项目目录**
 
 [TensorFlow 2.0 教程- Keras 快速入门](https://zhuanlan.zhihu.com/p/58825020)
 
@@ -83,8 +73,14 @@ TensorFlow 2.0 安装
 [TensorFlow2教程-Windows安装tensorflow2.0](https://zhuanlan.zhihu.com/p/62036280)
 
 
-完整tensorflow2.0教程代码请看[tensorflow2.0：中文教程tensorflow2_tutorials_chinese(欢迎star)](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 
-更多TensorFlow 2.0 入门教程请持续关注专栏：[Tensorflow2教程](https://zhuanlan.zhihu.com/c_1091021863043624960)
+**TensorFlow 资料**
 
-深度学习入门书籍和资源推荐：https://zhuanlan.zhihu.com/p/65371424
+https://tensorflow.google.cn/
+
+https://zhuanlan.zhihu.com/p/59507137
+
+https://github.com/Jian-Yin-Shine/tensorflow2_tutorials_chinese
+
+
+
