@@ -22,7 +22,12 @@ jupyter
 matplotlib
 Pillow
 scikit-learn
+
+################################################################
+# add 
 pyyaml
+pydot    # pip 安装绘图包
+# graphviz # pip 有这个包，但是要用brew, apt, rpm安装
 ################################################################
 # TensorFlow can be installed either as CPU or GPU versions.
 # You select which one to install by (un)commenting these lines.

@@ -10,6 +10,8 @@ tensorflow2中文教程，持续更新（更新ing）
 
 [TensorFlow 2.0 教程- keras overview](https://www.bilibili.com/video/av84346160)
 
+[TensorFlow 2.0 教程-keras api](https://www.bilibili.com/video/av84447149)
+
 
 
 **原项目目录**
