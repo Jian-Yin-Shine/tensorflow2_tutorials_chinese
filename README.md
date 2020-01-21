@@ -8,6 +8,8 @@ tensorflow2中文教程，持续更新（更新ing）
 
 [TensorFlow 2.0 教程- 安装](https://www.bilibili.com/video/av84222295/)
 
+[TensorFlow 2.0 教程- keras overview](https://www.bilibili.com/video/av84346160)
+
 
 
 **原项目目录**
