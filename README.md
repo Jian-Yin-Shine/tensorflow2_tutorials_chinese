@@ -14,6 +14,8 @@ tensorflow2中文教程，持续更新（更新ing）
 
 [TensorFlow 2.0 教程-keras](https://www.bilibili.com/video/av84701659)
 
+[TensorFlow 2.0 教程-keras(2)](https://www.bilibili.com/video/av84845816)
+
 [TensorFlow 2.0 教程-Variables](https://www.bilibili.com/video/av84591967)
 
 
